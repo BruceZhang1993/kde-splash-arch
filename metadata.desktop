@@ -1,0 +1,16 @@
+[Desktop Entry]
+Comment=Btw I Use Arch Splash
+Encoding=UTF-8
+Name=Btw I Use Arch Splash
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=BruceZhang1993
+X-KDE-PluginInfo-Category=plasma-splashscreen
+X-KDE-PluginInfo-Email=zttt183525594@gmail.com
+X-KDE-PluginInfo-License=
+X-KDE-PluginInfo-Name=splashscreen.BtwIUseArch
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://github.com/BruceZhang1993
+X-Plasma-MainScript=defaults
